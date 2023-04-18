@@ -1,2 +1,2 @@
 # Web
-stdying web.
+studying web.
